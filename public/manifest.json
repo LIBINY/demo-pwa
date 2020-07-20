@@ -1,0 +1,12 @@
+{
+    "name": "普通的pwa",
+    "short_name": "pwa",
+    "icons": [{
+        "src": "./image/logo2.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "background": "pink",
+    "display": "standalone",
+    "start_url": "."
+}
